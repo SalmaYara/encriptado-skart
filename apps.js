@@ -11,7 +11,6 @@ alert("Comunicado especial:);
 prompt("Se le indica que no debe usar letras mayusculas ni signos especiales");
 </head>
 <body>
-alert("Comunicado especial:);
-prompt("Se le indica que no debe usar letras mayusculas ni signos especiales");
+
 </body>
 </html>
